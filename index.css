@@ -29,3 +29,8 @@ button{
     margin-top: 5px;
     margin-bottom: 5px;
 }
+
+button:hover{
+    background-color: #016f32;
+    color: goldenrod;
+}
